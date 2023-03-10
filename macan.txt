@@ -2,3 +2,6 @@ maung adalah macan
 -macan adalah kucing
 -kucing adalah singa
 -singa dulurnya macan
+-kucing berkaki 4
+-naga juga berkaki 4
+-jadi kucing adalah dragon
